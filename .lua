@@ -1,4 +1,4 @@
-aimlock.MouseButton1Down:connect(function()
+
 	PLAYER  = game.Players.LocalPlayer
 	MOUSE   = PLAYER:GetMouse()
 	CC      = game.Workspace.CurrentCamera
@@ -76,4 +76,4 @@ aimlock.MouseButton1Down:connect(function()
 	end)
 
 	print("Rage-Aimbot loaded")
-end)
+
